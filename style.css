@@ -318,7 +318,7 @@ body.dark-mode .dark-section {
 }
 
 .dark-section .section-title {
-  color: white;
+  color: #eeebeb;
 }
 
 .skills-grid {
@@ -326,7 +326,7 @@ body.dark-mode .dark-section {
 }
 
 .skill {
-  background: #1c1c1c;
+  background: hsl(0, 0%, 28%);
   padding: 32px;
   border-radius: 24px;
   font-size: 24px;
